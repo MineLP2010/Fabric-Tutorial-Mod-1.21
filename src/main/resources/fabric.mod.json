@@ -9,7 +9,7 @@
 	],
 	"contact": {
 		"homepage": "https://jefreythesquirrl.net",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/MineLP2010/Fabric-Tutorial-Mod-1.21"
 	},
 	"license": "MIT",
 	"icon": "assets/tutorialmod/icon.png",
