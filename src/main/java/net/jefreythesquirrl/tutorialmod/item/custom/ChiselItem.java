@@ -22,7 +22,8 @@ public class ChiselItem extends Item {
                     Blocks.END_STONE, Blocks.END_STONE_BRICKS,
                     Blocks.OAK_LOG, ModBlocks.PINK_GARNET_BLOCK,
                     Blocks.GOLD_BLOCK, Blocks.NETHERITE_BLOCK,
-                    Blocks.OBSIDIAN, Blocks.BARRIER
+                    Blocks.OBSIDIAN, Blocks.BARRIER,
+                    Blocks.POLISHED_ANDESITE_SLAB, Blocks.DEAD_BUBBLE_CORAL
             );
 
     public ChiselItem(Settings settings) {

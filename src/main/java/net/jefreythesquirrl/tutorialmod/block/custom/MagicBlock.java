@@ -35,6 +35,9 @@ public class MagicBlock extends Block {
             if(itemEntity.getStack().getItem() == ModItems.RAW_PINK_GARNET) {
                 itemEntity.setStack(new ItemStack(Items.DIAMOND, itemEntity.getStack().getCount()));
             }
+            if(itemEntity.getStack().getItem() == Items.COBWEB) {
+                itemEntity.setStack(new ItemStack(Items.FLETCHING_TABLE, itemEntity.getStack().getCount()));
+            }
         }
 
         super.onSteppedOn(world, pos, state, entity);
